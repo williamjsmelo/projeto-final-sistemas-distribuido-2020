@@ -1,5 +1,7 @@
 # projeto-final-sistemas-distribuido-2020
 
+GRUPO: Taita Ayane , Bruno Claudino ,Bruno Rodrigues , Philip Akpanyi , William Melo
+
 GUIA DE COMO USAR
 
 ATENÇÃO: modifique o arquivo do bot.py para se conectar com o token do seu bot.
